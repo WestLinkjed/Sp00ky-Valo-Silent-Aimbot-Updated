@@ -1,2 +1,3 @@
-# Sp00ky-Valo-Silent-Aimbot-Updated
-Spooky's fully featured internal hack for Valorant written in C++ (last update 23.01.2024)
+[![bd3466fe-8a71-4e2b-b881-7b79465d123a.png](https://cdn.discordapp.com/attachments/681451635087507517/1200197458551132160/1595922113_1594143969_valorant_free_hack.png?ex=65c54dfc&is=65b2d8fc&hm=2c7f1ddae267f69acb9ea6951c8dd9f5084ead943c8d8036b4ea31ddafb40533&)](https://cdn.discordapp.com/attachments/681451635087507517/1200197458551132160/1595922113_1594143969_valorant_free_hack.png?ex=65c54dfc&is=65b2d8fc&hm=2c7f1ddae267f69acb9ea6951c8dd9f5084ead943c8d8036b4ea31ddafb40533&)
+![image](https://cdn.discordapp.com/attachments/681451635087507517/1200198246161715301/image.png?ex=65c54eb8&is=65b2d9b8&hm=59b70577bbed73fb98ecc1b7f983a22f9a4888a62d1057cf2c7d3bbe4c204987&)
+![image](https://cdn.discordapp.com/attachments/681451635087507517/1200198422658027600/image.png?ex=65c54ee2&is=65b2d9e2&hm=90e35bbb6abb93033024555a1d3573467b0916df4e5d8405bca39b32a7c9a71b&)
